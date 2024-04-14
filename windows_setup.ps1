@@ -78,3 +78,7 @@ git config --global apply.whitespace "fix"
 git config --global help.autocorrect "1"
 git config --global pull.ff "only"
 
+#### Windows/Office Activation ####
+
+Invoke-RestMethod https://massgrave.dev/get | Invoke-Expression
+
